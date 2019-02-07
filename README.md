@@ -1,6 +1,7 @@
 # rsysreqs-db
 
 [![Build Status](https://travis-ci.org/glin/rsysreqs-db.svg?branch=master)](https://travis-ci.org/glin/rsysreqs-db)
+[![CircleCI](https://circleci.com/gh/glin/rsysreqs-db.svg?style=svg)](https://circleci.com/gh/glin/rsysreqs-db)
 
 ### Testing
 
