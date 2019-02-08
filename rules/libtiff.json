@@ -2,7 +2,7 @@
   "sysreqs": ["\\blibtiff\\b", "\\btiff\\b"],
   "dependencies": [
     {
-      "packages": ["libtiff-de"],
+      "packages": ["libtiff-dev"],
       "constraints": [
         {
           "os": "linux",
